@@ -19185,7 +19185,7 @@ html.maximized-card {
     text-align: center;
   }
   .small-box .icon {
-    display: none;
+    /* display: none; */
   }
   .small-box p {
     font-size: 12px;
